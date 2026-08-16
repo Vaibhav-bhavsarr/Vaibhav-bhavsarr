@@ -15,7 +15,7 @@
 
 <br/>
 
-<!-- Dynamic Visitor Counter -->
+<!-- Dynamic Visitor Counter - REPLACE YOUR_GITHUB_USERNAME BELOW -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" />
 
 ---
