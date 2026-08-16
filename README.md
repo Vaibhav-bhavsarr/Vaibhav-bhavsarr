@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Vaibhav! 👋
 
-<!--
-**Vaibhav-bhavsarr/Vaibhav-bhavsarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year B.Tech student passionate about software development and eager to build impactful projects. I am focusing on sharpening my coding skills and transitioning from academic learning to real-world applications.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Development:**
+* HTML
+* CSS
+* JavaScript
+
+**Programming Languages:**
+* Java
+* C
+
+## 🚀 What I'm currently up to
+* Finishing my B.Tech degree and working on final-year projects.
+* Strengthening my core programming and problem-solving skills with C and Java.
+* Building interactive frontend projects to apply my web development knowledge.
+
+## 📫 Let's Connect!
+* **Email:** []
+* **LinkedIn:** []
