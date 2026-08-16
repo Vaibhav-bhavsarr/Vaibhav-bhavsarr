@@ -2,6 +2,10 @@
 
 I am currently a 4th-year CSE B.Tech student. 
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+</a>
+
 ---
 
 <div align="center">
