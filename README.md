@@ -1,3 +1,8 @@
+<!-- Dynamic Poster / Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Vaibhav's%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=4th-Year%20CSE%20B.Tech%20Student&descAlignY=51&descAlign=62" width="100%" alt="Header Poster" />
+
+<div align="center">
+
 <div align="center">
 
 # Hi, I'm Vaibhav 👋
