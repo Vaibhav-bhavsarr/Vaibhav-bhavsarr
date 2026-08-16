@@ -13,6 +13,8 @@ I am a final-year B.Tech student passionate about software development and eager
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-bhavsarr&show_icons=true&theme=radical)
+
 ## 🚀 What I'm currently up to
 * Finishing my B.Tech degree and working on final-year projects.
 * Strengthening my core programming and problem-solving skills with C and Java.
