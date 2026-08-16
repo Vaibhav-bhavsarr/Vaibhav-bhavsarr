@@ -15,29 +15,26 @@
 
 <br/>
 
-<!-- Dynamic Visitor Counter - REPLACE YOUR_GITHUB_USERNAME BELOW -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" />
-
 ---
 
 ### 🛠️ My Tech Stack
 
 <!-- Dynamic Skill Icons (Replaced standard badges) -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,mysql&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github" alt="My Skills" />
 </a>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<!-- Dynamic GitHub Stats & Streak -->
+<!-- Dynamic GitHub Stats & Streak - REPLACE YOUR_GITHUB_USERNAME BELOW -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vaibhav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Vaibhav's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- Top Languages Card -->
+<!-- Top Languages Card - REPLACE YOUR_GITHUB_USERNAME BELOW -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
